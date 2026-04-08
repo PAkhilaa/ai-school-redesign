@@ -1,16 +1,26 @@
-# React + Vite
+# AI Ready School – UI/UX Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔍 Problems Identified
+- Navigation was cluttered and lacked a clear call-to-action.
+- Hero section did not clearly explain the product value.
+- Product offerings were confusing and lacked structure.
 
-Currently, two official plugins are available:
+## 🎯 What I Built
+- Simplified navigation with a strong "Book Demo" CTA.
+- Clear and impactful hero section with proper messaging.
+- Structured product overview using clean card layout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠 Tech Stack
+- React (Vite)
+- Tailwind CSS
 
-## React Compiler
+## 🚀 Live Demo
+https://ai-school-redesign-five.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 GitHub Repository
+https://github.com/PAkhilaa/ai-school-redesign
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔮 Future Improvements
+- Add testimonials and social proof section.
+- Improve animations and interactions.
+- Enhance mobile responsiveness further.
