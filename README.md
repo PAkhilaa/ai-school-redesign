@@ -1,18 +1,25 @@
-# AI Ready School – UI/UX Redesign
+## AI Ready School – UI/UX Redesign
 
-## Problems Identified
-- Navigation was cluttered and lacked a clear call-to-action.
-- Hero section did not clearly explain the product value.
-- Product offerings were confusing and lacked structure.
+## Audit:Key Problems Identified
+Cluttered Navigation – Too many links; decision paralysis for busy school leaders.
+Unclear Hero Section – Messaging focuses on technical features rather than benefits for educators.
+Confusing Product Overview – The five AI tools feel disconnected, hard to understand as a single ecosystem.
+
+## Design Decisions & Prioritization
+-Navigation: Simplified, sticky navbar with prominent Book Demo CTA.
+-Hero Section: Clear, benefit-focused messaging that communicates value immediately.
+-Product Overview: Structured using a card/grid layout for easy comprehension.
+-Future Enhancements (if more time): Testimonials, interactive product demos, resource hub, dark mode.
+-Focused on high-impact sections first: hero and navigation, as instructed.
 
 ## What I Built
-- Simplified navigation with a strong "Book Demo" CTA.
-- Clear and impactful hero section with proper messaging.
-- Structured product overview using clean card layout.
+Fully responsive navigation and hero section.
+Structured product overview using clean card layout.
+Applied a modern, clean UI consistent with edtech products.
 
 ## Tech Stack
-- React (Vite)
-- Tailwind CSS
+Frontend: React (Vite)
+Styling: Tailwind CSS
 
 ## Live Demo
 https://ai-school-redesign-five.vercel.app
@@ -21,6 +28,7 @@ https://ai-school-redesign-five.vercel.app
 https://github.com/PAkhilaa/ai-school-redesign
 
 ## Future Improvements
-- Add testimonials and social proof section.
-- Improve animations and interactions.
-- Enhance mobile responsiveness further.
+Add testimonials and social proof to increase trust.
+Enhance animations and interactions for a richer experience.
+Improve mobile responsiveness further.
+Implement interactive product previews for each AI tool.
